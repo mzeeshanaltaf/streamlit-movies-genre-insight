@@ -4,7 +4,7 @@ Discover Top Performing Movie Genres
 This app shows a simple demonstration of an interactive movie data explorer that allow users to adjust parameter through interactive widgets and observe the intuitive visualization in real-time.
 
 # Application Link
-www.
+https://movies-genre-insight.streamlit.app/
 
 # Technologies Used
   * Pandas -- For Data wrangling
